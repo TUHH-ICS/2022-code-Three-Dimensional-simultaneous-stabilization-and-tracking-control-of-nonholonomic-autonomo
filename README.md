@@ -1,3 +1,5 @@
+[https://zenodo.org/badge/DOI/10.5281/zenodo.6373126.svg](https://doi.org/10.5281/zenodo.6373126)
+
 This repository contains the code for
 
 "**Three-Dimensional Simultaneous Stabilization and Tracking Control of Nonholonomic Autonomous Underwater Vehicles**" submitted for CDC and L-CSS 2022
